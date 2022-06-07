@@ -22,5 +22,16 @@ name = "About"
 url = "/about"
 weight = 3
 
+[[params.social]]
+  name = "github"
+  link = "https://github.com/sudo-umar"
+
+[[params.social]]
+  name = "email"
+  link = "umar.akram414@gmail.com" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/umarakram414/"
 
 
