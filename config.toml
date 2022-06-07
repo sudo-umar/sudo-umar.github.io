@@ -22,9 +22,7 @@ name = "About"
 url = "/about"
 weight = 3
 
-[params]
-  showAllPostsOnHomePage = false
-  postsOnHomePage = 5
+
 
 [[params.social]]
   name = "github"
