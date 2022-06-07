@@ -24,7 +24,7 @@ weight = 3
 
 [params]
 
-  description = "This library contains mostly cool stuff  but some part of it also includes boring but necessary stuff. All material can be found under "All posts" section "
+description = "This library contains mostly cool stuff  but some part of it also includes boring but necessary stuff. All material can be found under "All posts" section "
 
 [[params.social]]
   name = "github"
