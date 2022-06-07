@@ -22,6 +22,5 @@ name = "About"
 url = "/about"
 weight = 3
 
-[params]
-  showAllPostsOnHomePage = true
+
 
