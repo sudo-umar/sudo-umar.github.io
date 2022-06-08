@@ -41,12 +41,16 @@ In the first line, we imported torch. Consider it as a toolbox which contains al
 
 Next, our observations are represented by a matrix **x** which is of size (100,2) - 100 observations and 2 values per observation(also called atrribute/feature/column). Each individual vector x1 and x2 are generated from a normal distrubtion. The label variable is **y** which is of size (100,1). One label for each observation.
 
+## Convert input data to tensors
+
 The next step is to convert these numpy arrays to tensors. Tensors are just like arrays but they are for pytorch. 
 
 ```python
 xt = torch.Tensor(x)
 yt = torch.Tensor(y)
 ```
+
+## Define Neural Network
 
 After that, now we should define our neural network.
 
@@ -88,6 +92,8 @@ In the forward function, we simply passing our input from one layer to the next 
 In the next three lines after the class, we define our model object, loss function(function to calculate the deviation of our prediction from actual labels/target variable) and optimizer(method for optimizing our objective function).
 
 Now everything is set-up. We should train our model now.
+
+## Train our NN
 
 ```python
 model.eval()
