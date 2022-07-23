@@ -1,7 +1,6 @@
 ---
 title: "Python_tips"
 
-draft: true
 ---
 
 # Some tips and tricks regarding Python
