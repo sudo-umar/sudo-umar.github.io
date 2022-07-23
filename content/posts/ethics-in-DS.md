@@ -27,7 +27,7 @@ Moral judgements based on misinformation, shortsightedness, bias , or lack of un
 
 You can challenge someone's evualtion in three ways: challege his criteria, the weights given to them, and whether that criteria can be apllied to htat situation.
 
-### Main types of theory:
+### Main types of theories:
 
 Two broad classes of ethical theory- consequentialist and deontologist. Consequentialists hold thatwe should choose our actions with the best overall consequences. Deontologists hold that we should act in ways circumscribed by moral rules or rights. These rules or rights are defined( at least partly) independently of consequences.
 

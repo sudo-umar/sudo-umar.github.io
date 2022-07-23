@@ -20,6 +20,7 @@ First, create a dataset containing our observations(examples) and the labels ass
 
 ```python
 import torch
+import numpy
 # column 1
 mu1,sig1 = 0,0.1
 x1 = np.random.normal(mu1,sig1,(100))
