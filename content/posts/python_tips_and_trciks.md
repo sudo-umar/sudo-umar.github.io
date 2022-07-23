@@ -1,7 +1,8 @@
 ---
-title: "Python_tips"
-
+title: "Python_tips_and_trciks"
+date: 2022-07-23T14:25:00+02:00
 ---
+
 
 # Some tips and tricks regarding Python
 ## For chaining in pandas tutorial visit
