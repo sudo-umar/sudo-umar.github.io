@@ -1,6 +1,13 @@
 ---
 title: "Python_tips_and_trciks"
 date: 2022-07-23T14:25:00+02:00
+tags:
+    - Python
+category: tech
+keywords:
+    
+    - Python
+    - Chaining
 ---
 
 
