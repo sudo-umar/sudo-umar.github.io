@@ -25,5 +25,5 @@ In this notebook, first, I have implemented xgboost regressor for the time-serie
 ### Further integration with EC2 and S3 bucket to show all the plots and parameters in MLFlow on AWS:
 
 It can be done as shown in the youtube video mentioned below.
-(S3andAWS-timestamp:17:00 onwards)[https://www.youtube.com/watch?v=osYRsBVId-A] 
+[S3andAWS-timestamp:17:00 onwards](https://www.youtube.com/watch?v=osYRsBVId-A)
 
