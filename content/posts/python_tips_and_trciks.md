@@ -13,7 +13,7 @@ keywords:
 
 # Some tips and tricks regarding Python
 ## For chaining in pandas tutorial visit
-[chaining: a good way to work in pandas](https://github.com/sudo-umar/python/blob/main/practice.ipynb)
+[chaining: a good way to work in pandas](https://github.com/sudo-umar/python/blob/main/chainingdataframe.ipynb)
 ## zip 
 
 Through this keyword we can zip/or pair wise group two lists together. The lists can be of different size but it will only map one to one, so the remaining elements of one list will be left behind.
