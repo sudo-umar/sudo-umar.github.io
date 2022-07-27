@@ -97,8 +97,8 @@ cidr_block = var.nameofvariable
 # define provider
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIA26VON3TNEMSGJ6F2"
-  secret_key = "1Uc5zvK0+wWzbZ0UKqbMFicnteSCJSplINuJqLsM"
+  access_key = "Your key from security credentials"
+  secret_key = "Your key from aws security credentials"
 }
 
 #How to create resources inside a provider
