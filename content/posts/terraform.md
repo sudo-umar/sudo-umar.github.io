@@ -9,7 +9,7 @@ date: 2022-07-27T09:55:31+02:00
 provider "aws" {
   region     = "us-west-2"
   access_key = "my-access-key"
-  secret_key = "my-secret-key"
+  secret_key = "my-secret-keyy"
 }
 #How to create resources inside a provider
 # resource "<provider>_<resource_type>" "name" {
